@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+c++ dev @ nikiet, rosatom
+
 <!--
 **dj1vs/dj1vs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
